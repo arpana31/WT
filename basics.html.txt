@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>  how to make a website </title>
+<link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+<div class="banner">
+<div class="navbar">
+<img src="logo.png" class="logo">
+<ul>
+<li><a href="#">HOME</a></li>
+<li><a href="#">contact us</a></li>
+<li><a href="#">about us</a></li>
+<li><a href="#">designers</a></li>
+<li><a href="#">ladies</a></li>
+<li><a href="#">kids</a></li>
+</ul>
+</div>
+</div>
+</body>
+</html>
+
